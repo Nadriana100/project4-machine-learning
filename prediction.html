@@ -61,80 +61,56 @@
               <div class="col-md-3">
                 <div class="well">
                   <h5>Neighborhood Name</h5>
-                  <select id="selNumberNeighborhoods" onchange="optionChanged(this.value)"></select>
+                  <select id="selNumberNeighborhoods" onchange="optionChanged1(this.value)"></select>
                 </div>
               </div>
               <!-- Second filter -->
               <div class="col-md-3">
                 <div class="well">
                   <h5>Number of Beedroms</h5>
-                  <select id="selNumberBedrooms" onchange="optionChanged(this.value)"></select>
+                  <select id="selNumberBedrooms" onchange="optionChanged2(this.value)"></select>
                 </div>
               </div>
               <!--  Third filter-->
               <div class="col-md-3">
                 <div class="well">
                   <h5>Number of Bathrooms</h5>
-                  <select id="selNumberBathrooms" onchange="optionChanged(this.value)"></select>
+                  <select id="selNumberBathrooms" onchange="optionChanged3(this.value)"></select>
                 </div>
               </div>
               <!--Fourth filter-->
               <div class="col-md-3">
                 <div class="well">
                   <h5>Number of Fireplaces</h5>
-                  <select id="selNumberFireplaces" onchange="optionChanged(this.value)"></select>
+                  <select id="selNumberFireplaces" onchange="optionChanged4(this.value)"></select>
                 </div>
               </div>
             </div>
 
             <br>
             <br>
-            <!-- <div class="row">
-                <div class="panel panel-primary">
-                  <div class="panel-heading">
-                    <h3 class="panel-title">Demographic Info</h3>
-                  </div>
-                  <div id="sample-metadata" class="panel-body"></div>
-                </div>
-              </div>
-              <div class="col-md-5">
+
+            <!-- First row of Charts: bar chart and bubble chart -->
+            <div class="row">
+              <div class="col-md-6">
+                <center><h2>Price vs Year Built Barchart</h2></center>
                 <div id="bar"></div>
               </div>
-              <div class="col-md-5">
-                <div id="gauge"></div>
-              </div>
-            </div> -->
-            <!-- <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-6">
+                <center><h2>Price vs House Condition Bubble Chart</h2></center>
                 <div id="bubble"></div>
-              </div> -->
+              </div>
             </div>
-          </div>
+
+            <!-- Next row contains pie chart-->
+            <div class="row">
+              <div class="col-md-6">
+                <center><h2>Price vs Lot Area Scatterplot</h2></center>
+                <div id="scatter"></div>
+              </div>
+            </div>
 
 
-
-        <!-- Add plots in a container -->
-<!-- 
-        <div id="happyDiv" class="col-md-12"></div>
-        <hr>
-        <div class="row">
-            <div id='happy1Div' class="col-md-6">
-            </div>
-            <div id= 'happy2Div' class="col-md-6">
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div id='happy3Div' class="col-md-6">
-            </div>
-            <div id='happy4Div' class="col-md-6">
-            </div>
-        </div>
-        <div id="disasterDiv"></div>
-         <div id="petDiv"></div>
-        <div id='myDiv1' class="container content bg-white">
-
-        </div> -->
 
     <!-- Footer -->
     <center><footer>
