@@ -13,7 +13,7 @@ model = pickle.load(open('finalized_model_2.pkl','rb'))
 with open('encoder.pkl', 'rb') as handle:
     enc = pickle.load(handle)
 #INDEX HTML
-@app.route('/index.html')
+@app.route('/')
 def index():
     return render_template('index.html')
 
