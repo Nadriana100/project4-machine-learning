@@ -12,9 +12,27 @@ app = Flask(__name__)
 model = pickle.load(open('finalized_model_2.pkl','rb'))
 with open('encoder.pkl', 'rb') as handle:
     enc = pickle.load(handle)
-@app.route('/')
+#INDEX HTML
+@app.route('/index.html')
 def index():
     return render_template('index.html')
+
+# DATA VISUALIZATIONS HTML
+@app.route('/data_visualization.html')
+def data_visualizations():
+    return render_template('data_visualization.html')
+
+# correlations HTML
+@app.route('/correlations.html')
+def correlations():
+    return render_template('correlations.html')
+
+# prediction HTML
+@app.route('/prediction.html')
+def predictions():
+    return render_template('prediction.html')
+
+
 @app.route('/predict', methods=['POST'])
 def predict():
     # Get the data from the POST request.
