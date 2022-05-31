@@ -33,7 +33,7 @@ def predictions():
     return render_template('prediction.html')
 
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict.html', methods=['POST'])
 def predict():
     # Get the data from the POST request.
     #data = pd.read_json("data.json") #request.get_json(force=True)
@@ -54,8 +54,11 @@ def predict():
     prediction = model.predict(data)
 
     # Take the first value of prediction
-    output = prediction
-    return jsonify({'Sales Price': list(output)})
+    # output = prediction
+    # return jsonify({'Sales Price': list(output)})
+        # Take the first value of prediction
+    output = int(prediction)
+    return render_template('predict.html', posts= output)
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
