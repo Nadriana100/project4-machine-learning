@@ -1,6 +1,6 @@
 # project4-machine-learning
 
-The goal of this project was to build a machine learning model to predict house prices and deploy it to an [online app](https://house-price-predictor-gt.herokuapp.com/prediction.html). We used a dataset from 
+The goal of this project was to build a machine learning model to predict house prices and deploy it to an [online app](https://house-price-predictor-gt.herokuapp.com). We used a dataset from 
 [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) which includes 79 features of homes in Ames, Iowa.
 
 We used ridge linear regression as well as a random forest classifier. To make the app easily manageable for users, we settled with a random forest classifier
