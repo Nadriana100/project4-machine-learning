@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREDICTING HOUSE PRICES WITH MACHINE LEARNING</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+    crossorigin="anonymous">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+
+     <!-- Our CSS File for styling and media -->
+     <link rel="stylesheet" type="css" href="../static/css/styleWebpage.css">
+
+     <!-- W3 Styling Guide -->
+     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+</head>
+
+<!-- NAVIGATION BAR USING BOOTSTRAP -->
+<nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
+    <a href="/" class="navbar-brand">Georgia Tech Analytics</a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav ml-auto">
+            <li class="navbar-item">
+                <a href="/" class="nav-link active">Home</a>
+            </li>
+            <li class="navbar-item">
+                <a href="/data_visualization.html" class="nav-link">Data Visualization</a>
+            </li>
+            <li class="navbar-item">
+              <a href="/correlations.html" class="nav-link">Correlations</a>
+            </li>
+            <li class="navbar-item">
+              <a href="/prediction.html" class="nav-link">Price Prediction</a>
+          </li>
+        </ul>
+    </div>
+</nav>
+
+<body>
+
+    <!-- Giving some space between navbar and content -->
+    <br/>
+    <br/>
+    <br/>
+
+    <!-- 1ST SECTION: TITLE AND HEADER -->
+    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+        <img class="w3-image" src="https://www.nerdwallet.com/ca/wp-content/uploads/sites/2/2021/09/types-of-houses-in-canada-e1631808979346-1024x425.jpg" width="1500" height="800">
+        <div class="w3-display-topmiddle w3-margin-top">
+          <h1 class="w3-xxlarge w3-white"> <span class="w3-hide-small w3-text-black"> <b>PREDICTING HOUSE PRICES </b> </span></h1>
+        </div>
+      </header>
+
+    <br/>
+    <br/>
+
+    <!-- 2ND SECTION: CONSIDERATINS BEFORE BURYING A HOUSE -->
+    <div class ="row">
+        <div class="col-md-7">
+            <!-- Image from here: https://www.businessinsider.com/us-news-best-places-to-live-in-america-2016-3#50-pittsburgh-pennsylvania-1 -->
+            <img src="https://assets-news.housing.com/news/wp-content/uploads/2020/06/22085055/All-about-duplex-house-FB-1200x700-compressed.jpg" width="100%">
+            <!-- <img src="https://movingproz.com/wp-content/uploads/2021/06/packing-ks.jpg" width="100%"> -->
+            <!-- <img src="https://crosscountrymovers.com/wp-content/uploads/2020/10/pile-of-boxes-900x600.jpeg" width="1400"> -->
+        </div>
+        <div class="col-md-5">
+           <h3 class="w3-center"> <b>Considerations to determine a house price</b></h3>
+           <p>
+                <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/location-zone-2017612-1703913.png" width="10%">
+                <b> 1. Zone:</b> location, road access, alley access, proximity to other buildings/activities <br>
+                <img src="https://cdn4.iconfinder.com/data/icons/drawing-sizes/64/sizes-go___1-512.png" width="10%">
+                <b>2. Size:</b> square feet, number of floors, number of rooms and bathrooms, presence of garage, pool, fireplace, porch areas <br>
+                <img src="https://media.istockphoto.com/vectors/top-quality-pixel-perfect-linear-icon-thin-line-customizable-brand-vector-id1249178088?s=612x612" width="10%">
+                <b>3. Quality: </b>material quality, finish of the house/roof/pool<br>
+                <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28486956.jpg" width="10%">
+                <b>4. Utilities: </b>heating, air conditioning<br>
+                <img src="https://st2.depositphotos.com/28072470/46669/v/950/depositphotos_466695144-stock-illustration-hand-drawn-clock-of-balck.jpg?forcejpeg=true" width="10%">
+                <b>5. Timeline: </b> year built/remodeled, year sold, type of sale<br>
+                <img src="https://i.pinimg.com/736x/90/19/4b/90194b7f2ca68a3d80dc41a6e20ae1de.jpg" width="10%">
+                <b>6. Price </b><br>
+            
+           </p>
+           <center>
+           <p class="w3-text-grey">Want to get some insights?
+           <button class="w3-button w3-black w3-section" type="submit">
+            <i class="fa fa-paper-plane"></i> <a href="prediction.html">Let's check it out!</a>
+          </button>
+        </center>
+          </p>
+        </div>
+    </div>
+
+    <br/>
+    <br/>
+
+
+    <!-- SECTION 3: MEET THE TEAM SECION  -->
+    <h3> Meet the team!</h3>
+    <hr>
+    <div class ="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-2 w3-margin-bottom">
+        <center>
+            <img src="../static/img/Carla_Lorente.JPG" style="width:100%">
+            <h4>Carla Lorente</h4>
+            <i><p class="w3-opacity">Hardware Engineer</p></i>
+            <br>
+            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+        </center>
+        </div>
+
+        <div class="col-md-2 w3-margin-bottom">
+        <center>
+            <img src="../static/img/Norma_Espinosa.JPG" style="width:100%">
+            <h4>Norma Espinosa</h4>
+            <i><p class="w3-opacity">Data Clerk</p></i>
+            <br>
+            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+        </center>
+        </div>
+
+        <div class="col-md-2 w3-margin-bottom">
+        <center>
+            <img src="../static/img/Helen.png" style="width:100%">
+            <h4>Helen Tan</h4>
+            <i><p class="w3-opacity">Product Owner</p></i>
+            <br>
+            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+        </center>
+        </div>
+
+        <div class="col-md-2 w3-margin-bottom">
+        <center>
+                <img src="../static/img/Eddy_Salgado.png" style="width:100%">
+            <h4>Eddy Salgado</h4>
+            <i><p class="w3-opacity">Teacher</p></i>
+            <br>
+            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+        </center>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+
+  <!-- SECTION 4: CONTACT SECTION -->
+  <div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
+    <p>Feel free to contact the team for questios or suggestions.</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+
+     <!-- SECTION 5: IMAGE OF HOUSES FROM DRONE -->
+    <div class="w3-container">
+        <img src="https://wp-tid.zillowstatic.com/8/PARC_Feature_Drones_3200x2134-225fba.png" class="w3-image" style="width:100%">
+    </div>
+
+
+    <!-- Giving some space between content and footer -->
+    <br/>
+    <br/>
+
+    <!-- Footer -->
+    <center><footer>
+        <p><a href="/">Return to Home Page</a>
+        <p>&copy;Project 4 Group F, 2022, Bootcamp</p>
+    </footer>
+    </center>
+
+      <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+
+    <!-- D3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>

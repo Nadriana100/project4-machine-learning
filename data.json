@@ -1,0 +1,9848 @@
+[
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 208500,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 181500,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 223500,
+   "LotArea": 11250,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 140000,
+   "LotArea": 9550,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 250000,
+   "LotArea": 14260,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 143000,
+   "LotArea": 14115,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 307000,
+   "LotArea": 10084,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 129900,
+   "LotArea": 6120,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1931
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 118000,
+   "LotArea": 7420,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 129500,
+   "LotArea": 11200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 345000,
+   "LotArea": 11924,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 279500,
+   "LotArea": 10652,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 132000,
+   "LotArea": 6120,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1929
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 159000,
+   "LotArea": 13695,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 7560,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 325300,
+   "LotArea": 14215,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 139400,
+   "LotArea": 7449,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 230000,
+   "LotArea": 9742,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 129900,
+   "LotArea": 4224,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 256300,
+   "LotArea": 14230,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 134800,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 306000,
+   "LotArea": 11478,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 207500,
+   "LotArea": 16321,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 68500,
+   "LotArea": 6324,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1927
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 40000,
+   "LotArea": 8500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 179900,
+   "LotArea": 11049,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 165500,
+   "LotArea": 10552,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 277500,
+   "LotArea": 7313,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 309000,
+   "LotArea": 13418,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 145000,
+   "LotArea": 10859,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 153000,
+   "LotArea": 8532,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 109000,
+   "LotArea": 7922,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 160000,
+   "LotArea": 8658,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 170000,
+   "LotArea": 16905,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 141000,
+   "LotArea": 7945,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 319900,
+   "LotArea": 7658,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 239686,
+   "LotArea": 12822,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 249700,
+   "LotArea": 11096,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 127000,
+   "LotArea": 7742,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 114500,
+   "LotArea": 6240,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1934
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 110000,
+   "LotArea": 8472,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 385000,
+   "LotArea": 50271,
+   "BedroomAbvGr": 0,
+   "FullBath": 0,
+   "OverallQual": 9,
+   "YearBuilt": 1981
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 130000,
+   "LotArea": 7134,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 180500,
+   "LotArea": 10175,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 172500,
+   "LotArea": 2645,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 196500,
+   "LotArea": 11645,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 438780,
+   "LotArea": 13682,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 124900,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 158000,
+   "LotArea": 13072,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 101000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 202500,
+   "LotArea": 6442,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 140000,
+   "LotArea": 10300,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 317000,
+   "LotArea": 9591,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 226000,
+   "LotArea": 10665,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 80000,
+   "LotArea": 4608,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1945
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 225000,
+   "LotArea": 15593,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 244000,
+   "LotArea": 13651,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 129500,
+   "LotArea": 7599,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1982
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 185000,
+   "LotArea": 10141,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 144900,
+   "LotArea": 10200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 107400,
+   "LotArea": 5790,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 3,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 91000,
+   "LotArea": 1596,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 127000,
+   "LotArea": 8635,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 110000,
+   "LotArea": 10440,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 193500,
+   "LotArea": 13000,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 153500,
+   "LotArea": 4500,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 245000,
+   "LotArea": 10206,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 126500,
+   "LotArea": 8892,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 260000,
+   "LotArea": 16059,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1991
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 174000,
+   "LotArea": 11911,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 164500,
+   "LotArea": 3951,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 98600,
+   "LotArea": 8500,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 163500,
+   "LotArea": 13360,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 133900,
+   "LotArea": 7200,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 204750,
+   "LotArea": 9337,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 214000,
+   "LotArea": 10264,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 94750,
+   "LotArea": 10921,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 83000,
+   "LotArea": 10625,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 178000,
+   "LotArea": 9206,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1985
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 198900,
+   "LotArea": 10402,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 250000,
+   "LotArea": 9375,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 100000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1885
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 115000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 190000,
+   "LotArea": 11751,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 136900,
+   "LotArea": 9525,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 383970,
+   "LotArea": 9965,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 259500,
+   "LotArea": 7259,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1945
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 176000,
+   "LotArea": 3230,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 155000,
+   "LotArea": 8536,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 320000,
+   "LotArea": 12376,
+   "BedroomAbvGr": 5,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 163990,
+   "LotArea": 8461,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 100000,
+   "LotArea": 6060,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 136000,
+   "LotArea": 9464,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 153900,
+   "LotArea": 7892,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 181000,
+   "LotArea": 17043,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1979
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 155000,
+   "LotArea": 7590,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 150000,
+   "LotArea": 8973,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 226000,
+   "LotArea": 14200,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 150750,
+   "LotArea": 7388,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 180000,
+   "LotArea": 10335,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 174000,
+   "LotArea": 10400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 171000,
+   "LotArea": 11070,
+   "BedroomAbvGr": 5,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 230000,
+   "LotArea": 9066,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 231500,
+   "LotArea": 15426,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 260000,
+   "LotArea": 11645,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 166000,
+   "LotArea": 8520,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1952
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 204000,
+   "LotArea": 10335,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 125000,
+   "LotArea": 9100,
+   "BedroomAbvGr": 6,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 130000,
+   "LotArea": 2522,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 105000,
+   "LotArea": 6120,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1931
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 122000,
+   "LotArea": 10356,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1975
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 372402,
+   "LotArea": 13891,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 125000,
+   "LotArea": 11340,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 269500,
+   "LotArea": 12003,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 254900,
+   "LotArea": 12552,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 320000,
+   "LotArea": 19378,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 412500,
+   "LotArea": 13688,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 220000,
+   "LotArea": 12182,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 152000,
+   "LotArea": 5400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 325624,
+   "LotArea": 10562,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 183500,
+   "LotArea": 8244,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 215000,
+   "LotArea": 31770,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 239000,
+   "LotArea": 5306,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1987
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 163000,
+   "LotArea": 10197,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 184000,
+   "LotArea": 12416,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1986
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 243000,
+   "LotArea": 12615,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 211000,
+   "LotArea": 10029,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 501837,
+   "LotArea": 17423,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 100000,
+   "LotArea": 8520,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 200100,
+   "LotArea": 7588,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 200000,
+   "LotArea": 11426,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 127000,
+   "LotArea": 7438,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1908
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 475000,
+   "LotArea": 22950,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 1892
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 135000,
+   "LotArea": 10410,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1916
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 153337,
+   "LotArea": 7018,
+   "BedroomAbvGr": 2,
+   "FullBath": 0,
+   "OverallQual": 5,
+   "YearBuilt": 1979
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 286000,
+   "LotArea": 4923,
+   "BedroomAbvGr": 0,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 315000,
+   "LotArea": 10570,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1932
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 192000,
+   "LotArea": 9017,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 130000,
+   "LotArea": 2522,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 127000,
+   "LotArea": 7180,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 148500,
+   "LotArea": 2280,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 311872,
+   "LotArea": 9416,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 235000,
+   "LotArea": 25419,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 274900,
+   "LotArea": 9591,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 140000,
+   "LotArea": 8546,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 171500,
+   "LotArea": 10125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 112000,
+   "LotArea": 7000,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1924
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 110000,
+   "LotArea": 3500,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1947
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 180500,
+   "LotArea": 11851,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 143900,
+   "LotArea": 13673,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145000,
+   "LotArea": 8250,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 186000,
+   "LotArea": 10420,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 252678,
+   "LotArea": 8640,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 156000,
+   "LotArea": 13568,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 134450,
+   "LotArea": 10011,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 210000,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 107000,
+   "LotArea": 9906,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 167240,
+   "LotArea": 3010,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 204900,
+   "LotArea": 8990,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 179900,
+   "LotArea": 11475,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1975
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 97000,
+   "LotArea": 10500,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 386250,
+   "LotArea": 13472,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 112000,
+   "LotArea": 1680,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 290000,
+   "LotArea": 9950,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 106000,
+   "LotArea": 1869,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 125000,
+   "LotArea": 8521,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 192500,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 148000,
+   "LotArea": 8760,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 403000,
+   "LotArea": 15138,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 94500,
+   "LotArea": 1680,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 128200,
+   "LotArea": 10650,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 89500,
+   "LotArea": 1680,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 185500,
+   "LotArea": 8773,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 318000,
+   "LotArea": 12030,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 113000,
+   "LotArea": 8741,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1945
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 262500,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 79000,
+   "LotArea": 5000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 120000,
+   "LotArea": 10762,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 241500,
+   "LotArea": 10400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 137000,
+   "LotArea": 9142,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 11310,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 180000,
+   "LotArea": 11317,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 235000,
+   "LotArea": 4750,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 173000,
+   "LotArea": 8366,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 158000,
+   "LotArea": 9350,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 230000,
+   "LotArea": 8738,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 207500,
+   "LotArea": 8791,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 220000,
+   "LotArea": 8814,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 231500,
+   "LotArea": 12435,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 176000,
+   "LotArea": 19296,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 276000,
+   "LotArea": 9588,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 151000,
+   "LotArea": 8471,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 130000,
+   "LotArea": 5500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1929
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 73000,
+   "LotArea": 5232,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 175500,
+   "LotArea": 12090,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1981
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 185000,
+   "LotArea": 11207,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 179500,
+   "LotArea": 8400,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 120500,
+   "LotArea": 6900,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 266000,
+   "LotArea": 10728,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 241500,
+   "LotArea": 39104,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 290000,
+   "LotArea": 11764,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 124500,
+   "LotArea": 8314,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1982
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 205000,
+   "LotArea": 7264,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 201000,
+   "LotArea": 9196,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 141000,
+   "LotArea": 19138,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 415298,
+   "LotArea": 14450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 192000,
+   "LotArea": 10005,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 228500,
+   "LotArea": 11287,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1989
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 185000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 207500,
+   "LotArea": 5063,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 244600,
+   "LotArea": 9612,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 179200,
+   "LotArea": 8012,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 164700,
+   "LotArea": 4251,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 159000,
+   "LotArea": 9786,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 153575,
+   "LotArea": 8730,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 233230,
+   "LotArea": 15611,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 131000,
+   "LotArea": 11409,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 167000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 142500,
+   "LotArea": 7937,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 152000,
+   "LotArea": 13710,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 239000,
+   "LotArea": 7399,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 175000,
+   "LotArea": 11700,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 158500,
+   "LotArea": 14000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 157000,
+   "LotArea": 15750,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 267000,
+   "LotArea": 16226,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 205000,
+   "LotArea": 13704,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 149900,
+   "LotArea": 9800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 295000,
+   "LotArea": 18386,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 1880
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 305900,
+   "LotArea": 10386,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 225000,
+   "LotArea": 13474,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 360000,
+   "LotArea": 12378,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 132000,
+   "LotArea": 8000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 119900,
+   "LotArea": 7800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 375000,
+   "LotArea": 215245,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 178000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 188500,
+   "LotArea": 7795,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 260000,
+   "LotArea": 13005,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 270000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 260000,
+   "LotArea": 9900,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 342643,
+   "LotArea": 16259,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 354000,
+   "LotArea": 12099,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 301000,
+   "LotArea": 10380,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1986
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 126175,
+   "LotArea": 5820,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 242000,
+   "LotArea": 11275,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 87000,
+   "LotArea": 5000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 324000,
+   "LotArea": 10846,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145250,
+   "LotArea": 11600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 78000,
+   "LotArea": 6402,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 8176,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 207000,
+   "LotArea": 8198,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 192000,
+   "LotArea": 9042,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 377426,
+   "LotArea": 14157,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 214000,
+   "LotArea": 9135,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 202500,
+   "LotArea": 14145,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 155000,
+   "LotArea": 12400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 202900,
+   "LotArea": 14191,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 82000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 266000,
+   "LotArea": 8849,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 85000,
+   "LotArea": 2592,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 140200,
+   "LotArea": 6435,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 154000,
+   "LotArea": 2448,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 437154,
+   "LotArea": 20431,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 318061,
+   "LotArea": 7820,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 95000,
+   "LotArea": 9084,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 105900,
+   "LotArea": 8520,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 140000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 177500,
+   "LotArea": 11249,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 134000,
+   "LotArea": 4224,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 130000,
+   "LotArea": 6930,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 280000,
+   "LotArea": 12011,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 118000,
+   "LotArea": 1680,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 147000,
+   "LotArea": 10690,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 165000,
+   "LotArea": 9150,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 132000,
+   "LotArea": 7800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 125000,
+   "LotArea": 7175,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 123000,
+   "LotArea": 10634,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 219500,
+   "LotArea": 8200,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 148000,
+   "LotArea": 8846,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 340000,
+   "LotArea": 11143,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 394432,
+   "LotArea": 11394,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 9,
+   "YearBuilt": 2010
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 179000,
+   "LotArea": 8123,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 127000,
+   "LotArea": 5000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1924
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 187750,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 213500,
+   "LotArea": 9245,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 76000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 192000,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 125000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 191000,
+   "LotArea": 9382,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 426000,
+   "LotArea": 12474,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 119000,
+   "LotArea": 8405,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 215000,
+   "LotArea": 12209,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 109000,
+   "LotArea": 10134,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 129000,
+   "LotArea": 9571,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 123000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 169500,
+   "LotArea": 7590,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 67000,
+   "LotArea": 8967,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 241000,
+   "LotArea": 8125,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 245500,
+   "LotArea": 14963,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 164990,
+   "LotArea": 8767,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 108000,
+   "LotArea": 10200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 258000,
+   "LotArea": 12090,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 115000,
+   "LotArea": 10480,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 177000,
+   "LotArea": 15576,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 280000,
+   "LotArea": 14154,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 339750,
+   "LotArea": 10800,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 60000,
+   "LotArea": 9571,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 145000,
+   "LotArea": 34650,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 115000,
+   "LotArea": 8960,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1927
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 228000,
+   "LotArea": 11228,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 181134,
+   "LotArea": 8899,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 149500,
+   "LotArea": 7844,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 239000,
+   "LotArea": 22420,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 126000,
+   "LotArea": 8160,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 142000,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 206300,
+   "LotArea": 7060,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 113000,
+   "LotArea": 21750,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 315000,
+   "LotArea": 9200,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 135000,
+   "LotArea": 3378,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1946
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 109008,
+   "LotArea": 8593,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 195400,
+   "LotArea": 6762,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 175000,
+   "LotArea": 11457,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 85400,
+   "LotArea": 1680,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 122500,
+   "LotArea": 1920,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 181000,
+   "LotArea": 10839,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 212000,
+   "LotArea": 10667,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 116000,
+   "LotArea": 4400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 119000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 90350,
+   "LotArea": 4280,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1913
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 110000,
+   "LotArea": 12354,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 555000,
+   "LotArea": 15431,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 162900,
+   "LotArea": 6240,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 172500,
+   "LotArea": 3922,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 210000,
+   "LotArea": 8750,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 127500,
+   "LotArea": 9855,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 190000,
+   "LotArea": 16492,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 119500,
+   "LotArea": 8600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1937
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 120000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 110000,
+   "LotArea": 5684,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 280000,
+   "LotArea": 70761,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1975
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 210000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 188000,
+   "LotArea": 9297,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 175500,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 98000,
+   "LotArea": 4571,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1916
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 263435,
+   "LotArea": 8004,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 155000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 62383,
+   "LotArea": 8281,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 188700,
+   "LotArea": 11988,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1934
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 167000,
+   "LotArea": 10628,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 146500,
+   "LotArea": 9480,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1942
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 250000,
+   "LotArea": 11428,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 187000,
+   "LotArea": 9291,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 190000,
+   "LotArea": 11952,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 148000,
+   "LotArea": 3675,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 440000,
+   "LotArea": 14977,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 251000,
+   "LotArea": 5330,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 132500,
+   "LotArea": 8480,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 208900,
+   "LotArea": 13125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 380000,
+   "LotArea": 13693,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 297000,
+   "LotArea": 10637,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 89471,
+   "LotArea": 5925,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1937
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 326000,
+   "LotArea": 16033,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 374000,
+   "LotArea": 11846,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 155000,
+   "LotArea": 2500,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 164000,
+   "LotArea": 4500,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 147000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 156000,
+   "LotArea": 10289,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 175000,
+   "LotArea": 12243,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 160000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 86000,
+   "LotArea": 1526,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 133000,
+   "LotArea": 9490,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 172785,
+   "LotArea": 15578,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 155000,
+   "LotArea": 7931,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 91300,
+   "LotArea": 5784,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1938
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 184000,
+   "LotArea": 9120,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 130000,
+   "LotArea": 7800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 120000,
+   "LotArea": 7535,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 113000,
+   "LotArea": 1890,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 226700,
+   "LotArea": 9803,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 140000,
+   "LotArea": 9170,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 289000,
+   "LotArea": 15602,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 147000,
+   "LotArea": 2308,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 124500,
+   "LotArea": 7596,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1952
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 215000,
+   "LotArea": 9554,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 208300,
+   "LotArea": 7862,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 161000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 124500,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 164900,
+   "LotArea": 14559,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 202665,
+   "LotArea": 6792,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 129900,
+   "LotArea": 9100,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 134000,
+   "LotArea": 9187,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1983
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 96500,
+   "LotArea": 10594,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 402861,
+   "LotArea": 12220,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 265000,
+   "LotArea": 10208,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 234000,
+   "LotArea": 10918,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 150000,
+   "LotArea": 11988,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 159000,
+   "LotArea": 5000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1947
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 184750,
+   "LotArea": 40094,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 315750,
+   "LotArea": 11787,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 176000,
+   "LotArea": 7500,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 132000,
+   "LotArea": 13300,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 446261,
+   "LotArea": 14948,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 175000,
+   "LotArea": 10200,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 128000,
+   "LotArea": 6155,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 178000,
+   "LotArea": 9056,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 188000,
+   "LotArea": 8924,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 315000,
+   "LotArea": 14601,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 213250,
+   "LotArea": 10140,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 133000,
+   "LotArea": 4058,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 179665,
+   "LotArea": 17104,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 210000,
+   "LotArea": 8737,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 129500,
+   "LotArea": 7244,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 125000,
+   "LotArea": 8235,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 263000,
+   "LotArea": 9375,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 140000,
+   "LotArea": 4043,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 112500,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 255500,
+   "LotArea": 11146,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 284000,
+   "LotArea": 10625,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 113000,
+   "LotArea": 6380,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1922
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 141000,
+   "LotArea": 14850,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 108000,
+   "LotArea": 11040,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 175000,
+   "LotArea": 21872,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 170000,
+   "LotArea": 10010,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 185000,
+   "LotArea": 21780,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 128000,
+   "LotArea": 6858,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 325000,
+   "LotArea": 11198,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 214000,
+   "LotArea": 10171,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 316600,
+   "LotArea": 12327,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 1983
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 142600,
+   "LotArea": 13101,
+   "BedroomAbvGr": 6,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 120000,
+   "LotArea": 7332,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 224500,
+   "LotArea": 13159,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 170000,
+   "LotArea": 9967,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 10500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 118500,
+   "LotArea": 8480,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1947
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 145000,
+   "LotArea": 6292,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 164500,
+   "LotArea": 11777,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 146000,
+   "LotArea": 3604,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 131500,
+   "LotArea": 12150,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 253293,
+   "LotArea": 12704,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 325000,
+   "LotArea": 13500,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 1893
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 133000,
+   "LotArea": 6120,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1935
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 369900,
+   "LotArea": 11443,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 130000,
+   "LotArea": 10267,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 137000,
+   "LotArea": 8740,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1982
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 143000,
+   "LotArea": 25095,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 79500,
+   "LotArea": 9100,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 185900,
+   "LotArea": 8320,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 451950,
+   "LotArea": 13478,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 138000,
+   "LotArea": 6600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1982
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 110000,
+   "LotArea": 7990,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1975
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 319000,
+   "LotArea": 11302,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 114504,
+   "LotArea": 3600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 194201,
+   "LotArea": 3922,
+   "BedroomAbvGr": 2,
+   "FullBath": 0,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 217500,
+   "LotArea": 12984,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "Blueste",
+   "SalePrice": 151000,
+   "LotArea": 1950,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 275000,
+   "LotArea": 10927,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 141000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1937
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 220000,
+   "LotArea": 10041,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 151000,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 221000,
+   "LotArea": 12803,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 205000,
+   "LotArea": 13600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 152000,
+   "LotArea": 12464,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 225000,
+   "LotArea": 7800,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 359100,
+   "LotArea": 12168,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1934
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 118500,
+   "LotArea": 7943,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 137500,
+   "LotArea": 8800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 105500,
+   "LotArea": 7227,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 314813,
+   "LotArea": 11694,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 305000,
+   "LotArea": 12244,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 240000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 135000,
+   "LotArea": 7064,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 165150,
+   "LotArea": 10400,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 160000,
+   "LotArea": 10000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 153000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 135000,
+   "LotArea": 11606,
+   "BedroomAbvGr": 5,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 168500,
+   "LotArea": 9020,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 124000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1880
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 209500,
+   "LotArea": 4590,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 82500,
+   "LotArea": 11900,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139400,
+   "LotArea": 9250,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 144000,
+   "LotArea": 6979,
+   "BedroomAbvGr": 0,
+   "FullBath": 0,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 93000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 264561,
+   "LotArea": 3982,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 274000,
+   "LotArea": 12677,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 345000,
+   "LotArea": 13860,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 152000,
+   "LotArea": 10793,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 370878,
+   "LotArea": 9187,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 155000,
+   "LotArea": 10452,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 155000,
+   "LotArea": 7700,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 108000,
+   "LotArea": 9084,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 191000,
+   "LotArea": 8750,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 135000,
+   "LotArea": 10320,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1906
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 350000,
+   "LotArea": 10437,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 88000,
+   "LotArea": 1680,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145500,
+   "LotArea": 10007,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 149000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1931
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 97500,
+   "LotArea": 17503,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 167000,
+   "LotArea": 9937,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 402000,
+   "LotArea": 46589,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 110000,
+   "LotArea": 13560,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 137500,
+   "LotArea": 10012,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 423000,
+   "LotArea": 20896,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 230500,
+   "LotArea": 11194,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 193500,
+   "LotArea": 8125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 137500,
+   "LotArea": 11600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1922
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 173500,
+   "LotArea": 8633,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 103600,
+   "LotArea": 6629,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 257500,
+   "LotArea": 14442,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 9200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 148500,
+   "LotArea": 2289,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 87000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 109500,
+   "LotArea": 9022,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1924
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 372500,
+   "LotArea": 11844,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 143000,
+   "LotArea": 8012,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 159434,
+   "LotArea": 4500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1932
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 285000,
+   "LotArea": 11248,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 221000,
+   "LotArea": 16770,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 227875,
+   "LotArea": 10207,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 392000,
+   "LotArea": 8089,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 194700,
+   "LotArea": 7577,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 755000,
+   "LotArea": 21535,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 335000,
+   "LotArea": 26178,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1989
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 108480,
+   "LotArea": 5400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 141500,
+   "LotArea": 6120,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 176000,
+   "LotArea": 13811,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1987
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 89000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 123500,
+   "LotArea": 6420,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1952
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 138500,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 196000,
+   "LotArea": 4282,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 312500,
+   "LotArea": 14331,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 140000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 361919,
+   "LotArea": 12438,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 140000,
+   "LotArea": 7630,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 213000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 254000,
+   "LotArea": 6240,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 179540,
+   "LotArea": 9018,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 102776,
+   "LotArea": 8712,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 189000,
+   "LotArea": 4671,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 129000,
+   "LotArea": 9873,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 165000,
+   "LotArea": 10140,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 159500,
+   "LotArea": 10800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1890
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 157000,
+   "LotArea": 10000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 341000,
+   "LotArea": 10542,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 128500,
+   "LotArea": 9920,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 124500,
+   "LotArea": 8120,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 135000,
+   "LotArea": 8172,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 320000,
+   "LotArea": 13286,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 120500,
+   "LotArea": 6960,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 194500,
+   "LotArea": 7314,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 110000,
+   "LotArea": 11475,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 103000,
+   "LotArea": 6240,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 236500,
+   "LotArea": 5389,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 187500,
+   "LotArea": 9590,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 222500,
+   "LotArea": 11404,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 131400,
+   "LotArea": 10000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 163000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1914
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 239900,
+   "LotArea": 10463,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 190000,
+   "LotArea": 9313,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 132000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 142000,
+   "LotArea": 6768,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 179000,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 175000,
+   "LotArea": 12886,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 180000,
+   "LotArea": 5395,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 265979,
+   "LotArea": 11700,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1880
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 260400,
+   "LotArea": 10593,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 217000,
+   "LotArea": 9236,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 275500,
+   "LotArea": 10240,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 156000,
+   "LotArea": 7930,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 172500,
+   "LotArea": 3230,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 212000,
+   "LotArea": 10769,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 179400,
+   "LotArea": 2280,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 290000,
+   "LotArea": 12257,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 127500,
+   "LotArea": 9100,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 100000,
+   "LotArea": 6911,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1924
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 215200,
+   "LotArea": 8640,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 337000,
+   "LotArea": 9430,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 270000,
+   "LotArea": 9549,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 264132,
+   "LotArea": 14587,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 196500,
+   "LotArea": 10421,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 160000,
+   "LotArea": 12508,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 216837,
+   "LotArea": 9100,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 538000,
+   "LotArea": 53504,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 102000,
+   "LotArea": 8877,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 107000,
+   "LotArea": 7819,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 114500,
+   "LotArea": 10150,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 395000,
+   "LotArea": 14226,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 162000,
+   "LotArea": 4500,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 221500,
+   "LotArea": 11210,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 142500,
+   "LotArea": 13350,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 135000,
+   "LotArea": 10530,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 176000,
+   "LotArea": 7875,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 175900,
+   "LotArea": 7153,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 187100,
+   "LotArea": 16285,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 139000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 233000,
+   "LotArea": 10142,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 107900,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 160200,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 269790,
+   "LotArea": 9920,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 225000,
+   "LotArea": 9158,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 171000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 143500,
+   "LotArea": 8197,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 110000,
+   "LotArea": 7677,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 485000,
+   "LotArea": 13518,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 175000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1937
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 200000,
+   "LotArea": 12798,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 109900,
+   "LotArea": 4800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1916
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 189000,
+   "LotArea": 8199,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 582933,
+   "LotArea": 13891,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 118000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 227680,
+   "LotArea": 12274,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 135500,
+   "LotArea": 9750,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 223500,
+   "LotArea": 21384,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 159950,
+   "LotArea": 13400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 106000,
+   "LotArea": 8100,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1898
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 181000,
+   "LotArea": 10140,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 55993,
+   "LotArea": 8712,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1952
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 157900,
+   "LotArea": 9750,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 116000,
+   "LotArea": 8248,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 224900,
+   "LotArea": 12137,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 155000,
+   "LotArea": 8816,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 224000,
+   "LotArea": 6371,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 183000,
+   "LotArea": 7226,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 93000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 139500,
+   "LotArea": 9900,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 232600,
+   "LotArea": 11216,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 385000,
+   "LotArea": 14803,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 189000,
+   "LotArea": 8529,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 147400,
+   "LotArea": 2544,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 166000,
+   "LotArea": 11900,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 151000,
+   "LotArea": 3180,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 237000,
+   "LotArea": 9548,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 167000,
+   "LotArea": 10004,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139950,
+   "LotArea": 7875,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 128000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 153500,
+   "LotArea": 8100,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 100000,
+   "LotArea": 1680,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 144000,
+   "LotArea": 9525,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 130500,
+   "LotArea": 11767,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1946
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 157500,
+   "LotArea": 10440,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1904
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 174900,
+   "LotArea": 9020,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 153900,
+   "LotArea": 12665,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 213000,
+   "LotArea": 9317,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 133500,
+   "LotArea": 15523,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 240000,
+   "LotArea": 45600,
+   "BedroomAbvGr": 5,
+   "FullBath": 3,
+   "OverallQual": 6,
+   "YearBuilt": 1908
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 187000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 131500,
+   "LotArea": 4435,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 164000,
+   "LotArea": 7128,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 170000,
+   "LotArea": 17920,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 174000,
+   "LotArea": 8125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 152000,
+   "LotArea": 10400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 189950,
+   "LotArea": 7642,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1918
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 131500,
+   "LotArea": 11625,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 152000,
+   "LotArea": 9672,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 132500,
+   "LotArea": 7931,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 250580,
+   "LotArea": 8640,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 248900,
+   "LotArea": 10656,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 129000,
+   "LotArea": 6970,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 236000,
+   "LotArea": 9938,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 109500,
+   "LotArea": 6600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 200500,
+   "LotArea": 8750,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 116000,
+   "LotArea": 8892,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 133000,
+   "LotArea": 12144,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 66500,
+   "LotArea": 5720,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 303477,
+   "LotArea": 9000,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 132250,
+   "LotArea": 25286,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 350000,
+   "LotArea": 8834,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 148000,
+   "LotArea": 11782,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 157000,
+   "LotArea": 7024,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 187500,
+   "LotArea": 13758,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 118500,
+   "LotArea": 6204,
+   "BedroomAbvGr": 5,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1912
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 100000,
+   "LotArea": 7150,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 328900,
+   "LotArea": 5119,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145000,
+   "LotArea": 8393,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 135500,
+   "LotArea": 16466,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 268000,
+   "LotArea": 15865,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 149500,
+   "LotArea": 12160,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 122900,
+   "LotArea": 8064,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 172500,
+   "LotArea": 11184,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 154500,
+   "LotArea": 8414,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 7056,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 106500,
+   "LotArea": 8765,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 611657,
+   "LotArea": 12919,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 135000,
+   "LotArea": 6993,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1961
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 153000,
+   "LotArea": 8712,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 180000,
+   "LotArea": 7875,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 240000,
+   "LotArea": 14859,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 128000,
+   "LotArea": 9920,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 255000,
+   "LotArea": 13501,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 250000,
+   "LotArea": 11500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 174000,
+   "LotArea": 12589,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 154300,
+   "LotArea": 11600,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 88000,
+   "LotArea": 6120,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 145000,
+   "LotArea": 6270,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 173733,
+   "LotArea": 3000,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 75000,
+   "LotArea": 2001,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 35311,
+   "LotArea": 9000,
+   "BedroomAbvGr": 1,
+   "FullBath": 0,
+   "OverallQual": 2,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 238000,
+   "LotArea": 13125,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1991
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 176500,
+   "LotArea": 11029,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 201000,
+   "LotArea": 8462,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 169990,
+   "LotArea": 10237,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 193000,
+   "LotArea": 8012,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 207500,
+   "LotArea": 10240,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 285000,
+   "LotArea": 11999,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 201000,
+   "LotArea": 8925,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 117500,
+   "LotArea": 9100,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 320000,
+   "LotArea": 11670,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 190000,
+   "LotArea": 8487,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 242000,
+   "LotArea": 27650,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 79900,
+   "LotArea": 5825,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 253000,
+   "LotArea": 9675,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 239799,
+   "LotArea": 8760,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 150900,
+   "LotArea": 12640,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 143000,
+   "LotArea": 25000,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 124900,
+   "LotArea": 8820,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1890
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 143000,
+   "LotArea": 8163,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 270000,
+   "LotArea": 14536,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 197500,
+   "LotArea": 9360,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 129000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 119900,
+   "LotArea": 7800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 133900,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 145000,
+   "LotArea": 7136,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1946
+ },
+ {
+   "Neighborhood": "Blueste",
+   "SalePrice": 124000,
+   "LotArea": 1300,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 132000,
+   "LotArea": 7420,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 185000,
+   "LotArea": 8450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 155000,
+   "LotArea": 2572,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 155000,
+   "LotArea": 2308,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 239000,
+   "LotArea": 11923,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 214900,
+   "LotArea": 11316,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 178900,
+   "LotArea": 10237,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 160000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 10382,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 173000,
+   "LotArea": 2268,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 99500,
+   "LotArea": 7892,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1979
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 167500,
+   "LotArea": 11414,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 110000,
+   "LotArea": 9450,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 139000,
+   "LotArea": 8816,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 336000,
+   "LotArea": 12203,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 159895,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 125000,
+   "LotArea": 10880,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 117000,
+   "LotArea": 5310,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 395192,
+   "LotArea": 10159,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 197000,
+   "LotArea": 8125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 348000,
+   "LotArea": 9452,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 168000,
+   "LotArea": 17671,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 1882
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 187000,
+   "LotArea": 9760,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 173900,
+   "LotArea": 8846,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 337500,
+   "LotArea": 12456,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 121600,
+   "LotArea": 4712,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1946
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 91000,
+   "LotArea": 9786,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1922
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 206000,
+   "LotArea": 6762,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 86000,
+   "LotArea": 5400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 232000,
+   "LotArea": 11957,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 181000,
+   "LotArea": 3182,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 149900,
+   "LotArea": 8385,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 88000,
+   "LotArea": 2217,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 240000,
+   "LotArea": 12118,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 135000,
+   "LotArea": 21286,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 165000,
+   "LotArea": 10592,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 85000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 119200,
+   "LotArea": 11664,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 227000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 203000,
+   "LotArea": 11883,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 213490,
+   "LotArea": 3013,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 176000,
+   "LotArea": 7024,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 194000,
+   "LotArea": 7406,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 87000,
+   "LotArea": 9439,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 191000,
+   "LotArea": 3182,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 112500,
+   "LotArea": 7700,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 167500,
+   "LotArea": 9300,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 293077,
+   "LotArea": 9520,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 105000,
+   "LotArea": 9492,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 118000,
+   "LotArea": 1680,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 197000,
+   "LotArea": 15863,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 119750,
+   "LotArea": 6305,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1938
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 315500,
+   "LotArea": 12898,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 80000,
+   "LotArea": 1477,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 155000,
+   "LotArea": 13125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 196000,
+   "LotArea": 5381,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 262280,
+   "LotArea": 11839,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 278000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1981
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 556581,
+   "LotArea": 16056,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 9,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 145000,
+   "LotArea": 9245,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 176485,
+   "LotArea": 8993,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 200141,
+   "LotArea": 11175,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 165000,
+   "LotArea": 9500,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 144500,
+   "LotArea": 8562,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 255000,
+   "LotArea": 11367,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 180000,
+   "LotArea": 11361,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 185850,
+   "LotArea": 7052,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 335000,
+   "LotArea": 11308,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 213500,
+   "LotArea": 4920,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 81000,
+   "LotArea": 18000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1935
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 90000,
+   "LotArea": 13600,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 110500,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "ClearCr",
+   "SalePrice": 328000,
+   "LotArea": 14000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 178000,
+   "LotArea": 7837,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1993
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 167900,
+   "LotArea": 9760,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 151400,
+   "LotArea": 3964,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 135000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 135000,
+   "LotArea": 10152,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 154000,
+   "LotArea": 11700,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 91500,
+   "LotArea": 7585,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 159500,
+   "LotArea": 7950,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 194000,
+   "LotArea": 8556,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 219500,
+   "LotArea": 13125,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 170000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 155900,
+   "LotArea": 4435,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 126000,
+   "LotArea": 8775,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 145000,
+   "LotArea": 11040,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 133000,
+   "LotArea": 7500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 192000,
+   "LotArea": 8749,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 160000,
+   "LotArea": 8800,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 147000,
+   "LotArea": 9069,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 252000,
+   "LotArea": 10574,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 137500,
+   "LotArea": 2522,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 197000,
+   "LotArea": 3316,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 160000,
+   "LotArea": 2160,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 136500,
+   "LotArea": 8400,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 146000,
+   "LotArea": 9230,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 129000,
+   "LotArea": 5868,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 176432,
+   "LotArea": 9317,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 128000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1936
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 157000,
+   "LotArea": 11880,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 60000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 2,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 119500,
+   "LotArea": 9758,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 135000,
+   "LotArea": 7000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 159500,
+   "LotArea": 8910,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 106000,
+   "LotArea": 2016,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 325000,
+   "LotArea": 12256,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 179900,
+   "LotArea": 10357,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 274725,
+   "LotArea": 23257,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 280000,
+   "LotArea": 11362,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 205000,
+   "LotArea": 10480,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 129900,
+   "LotArea": 7100,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 134500,
+   "LotArea": 8923,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1953
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 117000,
+   "LotArea": 5400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 318000,
+   "LotArea": 12085,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 130000,
+   "LotArea": 9764,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 140000,
+   "LotArea": 13825,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 133700,
+   "LotArea": 7560,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 118400,
+   "LotArea": 8263,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 212900,
+   "LotArea": 10084,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 115000,
+   "LotArea": 10434,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 174000,
+   "LotArea": 3684,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 259000,
+   "LotArea": 14572,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 215000,
+   "LotArea": 11796,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 140000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1980
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 135000,
+   "LotArea": 7804,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 117500,
+   "LotArea": 9900,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1880
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 239500,
+   "LotArea": 9828,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 169000,
+   "LotArea": 8773,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1997
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 102000,
+   "LotArea": 6180,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1926
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 119000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 144000,
+   "LotArea": 8731,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 139000,
+   "LotArea": 7350,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 424870,
+   "LotArea": 9965,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 80000,
+   "LotArea": 12180,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 149000,
+   "LotArea": 6240,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 174500,
+   "LotArea": 12000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 143000,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 124000,
+   "LotArea": 8280,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 149900,
+   "LotArea": 17755,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 230000,
+   "LotArea": 14115,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "Veenker",
+   "SalePrice": 218000,
+   "LotArea": 10768,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 179900,
+   "LotArea": 9350,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 230000,
+   "LotArea": 5001,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 235128,
+   "LotArea": 11932,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 185000,
+   "LotArea": 9120,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 146000,
+   "LotArea": 2280,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 129000,
+   "LotArea": 8724,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 108959,
+   "LotArea": 12900,
+   "BedroomAbvGr": 0,
+   "FullBath": 0,
+   "OverallQual": 4,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 233170,
+   "LotArea": 9541,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 245350,
+   "LotArea": 10475,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 173000,
+   "LotArea": 10852,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 235000,
+   "LotArea": 13728,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1935
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 625000,
+   "LotArea": 35760,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 171000,
+   "LotArea": 9880,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 163000,
+   "LotArea": 9120,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 171900,
+   "LotArea": 4017,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 239000,
+   "LotArea": 16560,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1932
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 285000,
+   "LotArea": 10678,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 119500,
+   "LotArea": 6951,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 154900,
+   "LotArea": 7681,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 392500,
+   "LotArea": 5587,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 745000,
+   "LotArea": 15623,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 10,
+   "YearBuilt": 1996
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 120000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 186700,
+   "LotArea": 35133,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 104900,
+   "LotArea": 9738,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1924
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 95000,
+   "LotArea": 10615,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 3,
+   "YearBuilt": 1900
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 262000,
+   "LotArea": 12461,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 195000,
+   "LotArea": 8935,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 189000,
+   "LotArea": 7500,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 174000,
+   "LotArea": 2645,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 125000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 158000,
+   "LotArea": 9364,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 176000,
+   "LotArea": 8029,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 219210,
+   "LotArea": 14054,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 144000,
+   "LotArea": 8850,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1916
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 178000,
+   "LotArea": 9100,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 148000,
+   "LotArea": 11235,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 116050,
+   "LotArea": 9353,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 197900,
+   "LotArea": 10400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 117000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 213000,
+   "LotArea": 9750,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 153500,
+   "LotArea": 10140,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1975
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 271900,
+   "LotArea": 14684,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 200000,
+   "LotArea": 9135,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 7763,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 290000,
+   "LotArea": 10182,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 189000,
+   "LotArea": 11218,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 164000,
+   "LotArea": 12134,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1988
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 113000,
+   "LotArea": 9340,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 134500,
+   "LotArea": 10205,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 125000,
+   "LotArea": 7094,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 229456,
+   "LotArea": 8640,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2009
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 115000,
+   "LotArea": 7800,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1964
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 134000,
+   "LotArea": 8250,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 143000,
+   "LotArea": 10496,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1949
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 137900,
+   "LotArea": 10680,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1951
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 184000,
+   "LotArea": 15384,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 145000,
+   "LotArea": 10482,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 214000,
+   "LotArea": 14598,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 147000,
+   "LotArea": 8872,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 367294,
+   "LotArea": 8769,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 127000,
+   "LotArea": 7910,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1960
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 132500,
+   "LotArea": 7728,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 138887,
+   "LotArea": 13132,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1914
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 175500,
+   "LotArea": 2628,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 195000,
+   "LotArea": 12393,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 142500,
+   "LotArea": 13072,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 265900,
+   "LotArea": 9037,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 224900,
+   "LotArea": 8158,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 248328,
+   "LotArea": 9849,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 170000,
+   "LotArea": 10625,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1974
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 178000,
+   "LotArea": 12090,
+   "BedroomAbvGr": 3,
+   "FullBath": 3,
+   "OverallQual": 6,
+   "YearBuilt": 1984
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 186500,
+   "LotArea": 8125,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 129500,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1917
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 119000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 244000,
+   "LotArea": 11160,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 130000,
+   "LotArea": 9858,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 165400,
+   "LotArea": 6931,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 127500,
+   "LotArea": 6240,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1931
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 301500,
+   "LotArea": 14303,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 190000,
+   "LotArea": 9587,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 151000,
+   "LotArea": 9750,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 128900,
+   "LotArea": 9600,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1956
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 180500,
+   "LotArea": 13515,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1919
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 181000,
+   "LotArea": 4060,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 183900,
+   "LotArea": 3735,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 122000,
+   "LotArea": 10120,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 378500,
+   "LotArea": 13214,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 144000,
+   "LotArea": 11344,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1958
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 177000,
+   "LotArea": 11512,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 139000,
+   "LotArea": 5362,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 137000,
+   "LotArea": 11345,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 68400,
+   "LotArea": 7500,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 227000,
+   "LotArea": 9808,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 180000,
+   "LotArea": 8049,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1990
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 150500,
+   "LotArea": 8800,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 169000,
+   "LotArea": 9638,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1919
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 132500,
+   "LotArea": 6000,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 278000,
+   "LotArea": 5664,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 281000,
+   "LotArea": 11065,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 119500,
+   "LotArea": 1680,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 107500,
+   "LotArea": 6600,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1892
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 162900,
+   "LotArea": 10140,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 115000,
+   "LotArea": 8172,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 138500,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 155000,
+   "LotArea": 8700,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 140000,
+   "LotArea": 3675,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 160000,
+   "LotArea": 63887,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 154000,
+   "LotArea": 7500,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 290000,
+   "LotArea": 10120,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 232000,
+   "LotArea": 8688,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 130000,
+   "LotArea": 3363,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 325000,
+   "LotArea": 13173,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 202500,
+   "LotArea": 6955,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 138000,
+   "LotArea": 8072,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 147000,
+   "LotArea": 12000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1948
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 335000,
+   "LotArea": 17500,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 203000,
+   "LotArea": 8814,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 333168,
+   "LotArea": 14774,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 119000,
+   "LotArea": 8190,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 206900,
+   "LotArea": 11075,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 295493,
+   "LotArea": 10226,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 208900,
+   "LotArea": 4230,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 111000,
+   "LotArea": 10215,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1954
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 156500,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 190000,
+   "LotArea": 10186,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1992
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 147000,
+   "LotArea": 9986,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 130500,
+   "LotArea": 6600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1982
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 256000,
+   "LotArea": 10440,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 176500,
+   "LotArea": 9084,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 227000,
+   "LotArea": 10000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 132500,
+   "LotArea": 10780,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1976
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 100000,
+   "LotArea": 8877,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1938
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 125500,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1938
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 125000,
+   "LotArea": 2368,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1970
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 167900,
+   "LotArea": 9650,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 135000,
+   "LotArea": 9246,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 200000,
+   "LotArea": 13450,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2002
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 128500,
+   "LotArea": 9560,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 123000,
+   "LotArea": 8294,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 155000,
+   "LotArea": 13695,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 177000,
+   "LotArea": 7558,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1928
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 155835,
+   "LotArea": 11103,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 108500,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 283463,
+   "LotArea": 15306,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 200000,
+   "LotArea": 11643,
+   "BedroomAbvGr": 6,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1969
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 171000,
+   "LotArea": 9247,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 134900,
+   "LotArea": 6000,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1937
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 410000,
+   "LotArea": 14720,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 170000,
+   "LotArea": 10192,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 315000,
+   "LotArea": 16737,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 189000,
+   "LotArea": 9842,
+   "BedroomAbvGr": 4,
+   "FullBath": 3,
+   "OverallQual": 5,
+   "YearBuilt": 1921
+ },
+ {
+   "Neighborhood": "StoneBr",
+   "SalePrice": 260000,
+   "LotArea": 16158,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 156932,
+   "LotArea": 8499,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 144152,
+   "LotArea": 3180,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 193000,
+   "LotArea": 9179,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "MeadowV",
+   "SalePrice": 127000,
+   "LotArea": 2665,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 232000,
+   "LotArea": 10635,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 105000,
+   "LotArea": 5400,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 165500,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1955
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 274300,
+   "LotArea": 9750,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1998
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 250000,
+   "LotArea": 10625,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 239000,
+   "LotArea": 10991,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 91000,
+   "LotArea": 6292,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1930
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 117000,
+   "LotArea": 10998,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "BrDale",
+   "SalePrice": 83000,
+   "LotArea": 1953,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1973
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 58500,
+   "LotArea": 8212,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1914
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 157000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 7,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 105000,
+   "LotArea": 9060,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1939
+ },
+ {
+   "Neighborhood": "IDOTRR",
+   "SalePrice": 125500,
+   "LotArea": 5436,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1922
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 250000,
+   "LotArea": 16692,
+   "BedroomAbvGr": 5,
+   "FullBath": 3,
+   "OverallQual": 7,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 136000,
+   "LotArea": 8520,
+   "BedroomAbvGr": 5,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1916
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 377500,
+   "LotArea": 14892,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 9,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 131000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 235000,
+   "LotArea": 9100,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 124000,
+   "LotArea": 8944,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 123000,
+   "LotArea": 7838,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1967
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 163000,
+   "LotArea": 10800,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1905
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 246578,
+   "LotArea": 4045,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Timber",
+   "SalePrice": 281213,
+   "LotArea": 12665,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 137500,
+   "LotArea": 6120,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1920
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 138000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "SWISU",
+   "SalePrice": 137450,
+   "LotArea": 6171,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1925
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 120000,
+   "LotArea": 6000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1929
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 193000,
+   "LotArea": 7415,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 193879,
+   "LotArea": 6762,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2006
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 282922,
+   "LotArea": 15256,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 105000,
+   "LotArea": 10410,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 3,
+   "YearBuilt": 1915
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 275000,
+   "LotArea": 3842,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 133000,
+   "LotArea": 8445,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1972
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 125500,
+   "LotArea": 7740,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 215000,
+   "LotArea": 20544,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1986
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 230000,
+   "LotArea": 12420,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2001
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 9600,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "SawyerW",
+   "SalePrice": 257000,
+   "LotArea": 10994,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "BrkSide",
+   "SalePrice": 207000,
+   "LotArea": 13053,
+   "BedroomAbvGr": 4,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1923
+ },
+ {
+   "Neighborhood": "Blmngtn",
+   "SalePrice": 175900,
+   "LotArea": 3635,
+   "BedroomAbvGr": 1,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2007
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 122500,
+   "LotArea": 11340,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1885
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 124000,
+   "LotArea": 9204,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1963
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 179900,
+   "LotArea": 11700,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1968
+ },
+ {
+   "Neighborhood": "NPkVill",
+   "SalePrice": 127500,
+   "LotArea": 4043,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 136500,
+   "LotArea": 4435,
+   "BedroomAbvGr": 1,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 2003
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 142000,
+   "LotArea": 10721,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1959
+ },
+ {
+   "Neighborhood": "NoRidge",
+   "SalePrice": 271000,
+   "LotArea": 10944,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1994
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 140000,
+   "LotArea": 10930,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1945
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 119000,
+   "LotArea": 7200,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1940
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 192140,
+   "LotArea": 21930,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 64500,
+   "LotArea": 10800,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 4,
+   "YearBuilt": 1927
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 186500,
+   "LotArea": 10261,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 2000
+ },
+ {
+   "Neighborhood": "Mitchel",
+   "SalePrice": 160000,
+   "LotArea": 17400,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 5,
+   "YearBuilt": 1977
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 174000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1962
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 120500,
+   "LotArea": 9000,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1971
+ },
+ {
+   "Neighborhood": "NridgHt",
+   "SalePrice": 394617,
+   "LotArea": 12444,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "OldTown",
+   "SalePrice": 149700,
+   "LotArea": 7407,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1957
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 197000,
+   "LotArea": 11584,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1979
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 191000,
+   "LotArea": 11526,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1922
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 310000,
+   "LotArea": 11003,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 10,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 179600,
+   "LotArea": 8500,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Sawyer",
+   "SalePrice": 129000,
+   "LotArea": 8400,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 6,
+   "YearBuilt": 1966
+ },
+ {
+   "Neighborhood": "CollgCr",
+   "SalePrice": 240000,
+   "LotArea": 10000,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 1995
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 112000,
+   "LotArea": 11767,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 4,
+   "YearBuilt": 1910
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 287090,
+   "LotArea": 9262,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 8,
+   "YearBuilt": 2008
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 145000,
+   "LotArea": 3675,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 2005
+ },
+ {
+   "Neighborhood": "Somerst",
+   "SalePrice": 185000,
+   "LotArea": 7500,
+   "BedroomAbvGr": 2,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 2004
+ },
+ {
+   "Neighborhood": "Gilbert",
+   "SalePrice": 175000,
+   "LotArea": 7917,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1999
+ },
+ {
+   "Neighborhood": "NWAmes",
+   "SalePrice": 210000,
+   "LotArea": 13175,
+   "BedroomAbvGr": 3,
+   "FullBath": 2,
+   "OverallQual": 6,
+   "YearBuilt": 1978
+ },
+ {
+   "Neighborhood": "Crawfor",
+   "SalePrice": 266500,
+   "LotArea": 9042,
+   "BedroomAbvGr": 4,
+   "FullBath": 2,
+   "OverallQual": 7,
+   "YearBuilt": 1941
+ },
+ {
+   "Neighborhood": "NAmes",
+   "SalePrice": 142125,
+   "LotArea": 9717,
+   "BedroomAbvGr": 2,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1950
+ },
+ {
+   "Neighborhood": "Edwards",
+   "SalePrice": 147500,
+   "LotArea": 9937,
+   "BedroomAbvGr": 3,
+   "FullBath": 1,
+   "OverallQual": 5,
+   "YearBuilt": 1965
+ }
+]
